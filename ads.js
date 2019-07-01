@@ -1,1 +1,1 @@
-adblock = false;
+var adblock = true;
