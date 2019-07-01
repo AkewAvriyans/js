@@ -1,1 +1,1 @@
-var adblock = true;
+var levelmaxblock = false;
